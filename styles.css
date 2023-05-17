@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+.gas-chamber{
+    display: flex;
+    justify-content: center;
+}
+body {
+  background-image: url("thugshak.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+body {
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+b {
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000, 0px 0px 2px #000;
+}
